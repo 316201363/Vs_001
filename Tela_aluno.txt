@@ -1,9 +1,7 @@
 uninove
 
-vers√£o:2
+vers„o:1
 
 nome: 
 RA:
-Data Nascimento:
-CPF:
 
